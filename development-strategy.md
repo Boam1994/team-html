@@ -1,10 +1,10 @@
 # Development Strategy
 
-> `name-of-project`
+> `team-html`
 
 write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+
+In this project i have to practice branches with html & css
 
 ## Wireframe
 
